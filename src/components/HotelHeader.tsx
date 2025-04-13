@@ -9,7 +9,7 @@ const HotelHeader = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Hotel className="h-8 w-8 text-primary mr-2" />
-            <span className="text-xl font-semibold text-primary">Luxury Hotel</span>
+            <span className="text-xl font-semibold text-primary">Luxury Hotel Demo</span>
           </div>
           
           <div className="hidden md:flex items-center space-x-6">
